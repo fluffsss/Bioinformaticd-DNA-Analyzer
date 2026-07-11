@@ -1,2 +1,4 @@
-# Bioinformaticd-DNA-Analyzer
-A Python script utiilizing Biopython and Matplotlib to automate DNA-to-Protein translation and graph sequence distribution frequencies.
+# Bioinformatics-DNA-Analyzer
+Python based DNA sequence analysis tool using Biopython and Matplotlib. Performs DNA-to-Protein translation and visualize nucleotide sequence distribution.
+## output
+! [Nucleotide Distribution](nucleotide_distribution.png)
